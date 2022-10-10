@@ -14,13 +14,19 @@ img{
     left: 39%;
     
 }
-span{
-    background-color: yellow;
-    color: blue;
-}
+
 .parrafo2{
     color: white;
 }
 #parrafo3{
     color:bisque;
+}
+p em{
+    background-color: blue;
+    
+}
+.oblique{
+    font-style: oblique;
+    font-size: large;
+    color: rgb(253, 253, 165);
 }
