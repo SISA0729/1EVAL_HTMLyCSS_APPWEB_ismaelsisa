@@ -1,0 +1,11 @@
+body{
+    border-style: solid;
+}
+h1{
+    border-style: solid;
+    margin: 10PX;
+    text-align: center;
+}
+table{
+    border-style: dotted;
+}
