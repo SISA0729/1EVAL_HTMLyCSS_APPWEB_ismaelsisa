@@ -1,5 +1,5 @@
 body{
-    background:black;
+    background:black
 
 }
 h1{
@@ -17,5 +17,6 @@ ul{
     list-style: upper-roman;
 }
 ol{
-    list-style-image:url(./img/xd\ \(1\).png
+    list-style-image:url(./img/xd\ \(1\).png)
+}
 
