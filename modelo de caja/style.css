@@ -11,17 +11,19 @@ h1{
 }
 table{
     border-style: double;
-    border-width: 1rem;
+    border-radius: 3rem;
     background-color: yellow;
     width: 50%;
-    height: 40%;
+    height: 50%;
     margin: 40px;
 }
 tr{
     border: 1rem blue solid;
+    border-radius: 40%;
 
 }
 td{
     border: 0.3rem blue solid;
+    border-radius: 40%;
     
 }
