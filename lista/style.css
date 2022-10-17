@@ -1,5 +1,5 @@
 body{
-    background:black
+    background:rgb(41, 41, 41)
 
 }
 h1{
@@ -19,4 +19,12 @@ ul{
 ol{
     list-style-image:url(./img/xd\ \(1\).png)
 }
-
+dt{
+    color: black;
+    background-color: yellow;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    padding: 3px;
+    width: 30%;
+}
