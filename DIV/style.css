@@ -14,3 +14,8 @@ footer{
     border: 3px blue solid;
     height: 20%;
 }
+li.menu{
+    list-style-type: none;
+    display: inline;
+    margin: 5px;
+}
