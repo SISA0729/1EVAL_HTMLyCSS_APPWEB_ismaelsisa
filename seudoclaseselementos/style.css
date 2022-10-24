@@ -1,0 +1,13 @@
+/* Autor Ismael Sisa */
+
+
+header p:first-child{
+    color: rgb(84, 159, 245);
+}
+a:link{
+    background-color: yellow;
+}
+a:visited{
+    background-color: blue;
+}
+
