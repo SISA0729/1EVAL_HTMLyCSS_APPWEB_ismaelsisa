@@ -1,0 +1,56 @@
+.container{
+    margin: 20px auto;
+    width: 80%;
+    background-color: white;
+}
+h1{
+    text-align: center;
+}
+nav{
+    background-color: rgb(121, 116, 116);
+    padding: 15px;
+    color: white;
+}
+nav .menu-item{
+    list-style-type: none;
+    display: inline;
+    padding: 30px;
+    margin: 50px;
+
+}
+.sidebar{
+    background-color: black;
+    color: white;
+    margin: 10px auto;
+    padding: 15px;
+    float: left;
+    height: 480px;
+
+}
+div .menu-item{
+    padding: 10px;
+}
+.course{
+    text-align: center;
+    border: 1px black solid;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    color: #444;
+    float: left;
+    margin: 1%;
+    padding: 1em; 
+    width: 26.5%;
+}
+img{
+    width: 60%;
+}
+.articles{
+    width: 85%;
+    column-count:3;	
+    margin: 55px;
+}
+footer{
+    background-color: lightgray;
+    padding: 12px;
+    text-align: center;
+}
